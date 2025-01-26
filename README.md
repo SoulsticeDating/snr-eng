@@ -94,7 +94,7 @@ Submit a GitHub repository containing at least the following files:
 Your solution will be evaluated based on:
 
 1. Task 1:
-   - Accuracy in finding 100% matches
+   - Accuracy in finding as many of the 100% matches as possible
    - Code quality and efficiency
    - Testing approach
 
