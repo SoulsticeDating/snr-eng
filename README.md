@@ -68,7 +68,7 @@ Requirements:
 
 ## Submission Requirements
 
-Submit a GitHub repository containing at least the following files:
+Submit a GitHub repository via wellfound containing at least the following files:
 
 1. `task1.py` - Script that implements the perfect matching algorithm and validates the matches using the validation endpoint
 
