@@ -70,7 +70,7 @@ Requirements:
 
 Submit a GitHub repository via wellfound containing at least the following files:
 
-1. `task1.py` - Script that implements the perfect matching algorithm and validates the matches using the validation endpoint
+1. `task1` - a script in any language that implements the matching algorithm and validates the matches using the validation endpoint
 
 2. `task2.txt` - Documentation of your match ranking system, including:
    - Scoring methodology
