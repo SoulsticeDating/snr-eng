@@ -1,0 +1,2 @@
+My algorithm also has the ability to compromise of certain deal breakers. Similar to how we would choose of scores of up to 10 for percect matches,
+I set a parameter in the validation function that can accept a minimum score. For example, a mathcing score of 8 can be a possible match.

@@ -1,0 +1,9 @@
+This algorithm begins by filtering out by gender and sexuality. For this, I store all of the users in a db and all of the potential matches in another db.
+Then the algorithm uses a scoring system. Given for each question, there are x=3 possible answers, we can assign a matching score of up to 2 according to the users answers.
+For example: 
+    wants_kids:
+        (Possible answers: Yes, Maybe, No)
+        For a perferct match both answers from both users would have to be the same e.g. Yes Yes or No No. For these we would assign a score of 2
+        For a semi match, answers would involve little compromise e.g. No Maybe or Yes Maybe. For these we would assign a score of 1.
+        For a no match, answers would involve no compatibility e.g yes yes or no no. For these we would assign of score of zero.
+For perfect matches we would need a score of maxScore = 2 * numberOfDealBreakers = 5. So in this challenge, the score of a perfect match must be 10.
