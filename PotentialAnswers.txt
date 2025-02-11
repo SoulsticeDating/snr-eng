@@ -1,0 +1,10 @@
+Dealbreakers
+drinking: Regularly, Socially, Never
+relationship type: Casual, Long-Term, Marriage-minded
+Religion: Non-religious, Spiritual, Religious
+Smoking: Regularly, Socially, Never
+wants_kids: Yes, No, Maybe
+
+
+Gender: Male, Female, Non-binary
+Orientation: Other, Straight, Gay, Lesbian, Bisexual
